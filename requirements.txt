@@ -1,0 +1,8 @@
+librosa
+numba==0.48
+pandas
+mtcnn
+tensorflow
+matplotlib
+keras
+Pillow
